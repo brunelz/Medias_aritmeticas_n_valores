@@ -1,4 +1,4 @@
-Algoritmo media_aritmetica_mejorado
+Algoritmo media_aritmetica
 	repetir
 		Escribir "Ingrese la cantidad de datos:"
 		leer n
